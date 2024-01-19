@@ -2,7 +2,7 @@
 <h1 align="center" >
   
   ![image](https://github.com/NLittleCloud/NLittleCloud/assets/107635953/1b23b61d-46b0-40b6-8d39-24126fec5504)
-  ![image](https://github.com/NLittleCloud/NLittleCloud/assets/107635953/42a4f760-4af3-45fa-8aa6-58b69f7743bc)
+  [![image](https://github.com/NLittleCloud/NLittleCloud/assets/107635953/53755d30-fdb7-46a5-b8eb-0f04558deade)](https://t.me/Nokiapro)
 
 </h1>
 <!--
